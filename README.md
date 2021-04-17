@@ -5,7 +5,7 @@
 
 <!-- 📊 I’m currently working on **Data-Analysis** & **Data-Prediction**
 - 🦹 I’m currently learning basics of **Machine** **Learning**    -->
-<img src="https://github-readme-stats.vercel.app/api?username=Dhrumil-Zion&&show_icons=true&title_color=ffffff&icon_color=FF2007&text_color=00FFFF&bg_color=000029">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhrumil-Zion&&show_icons=true&count_private=true&title_color=ffffff&icon_color=FF2007&text_color=00FFFF&bg_color=000029">
 
 <!--
 - 👯 I’m looking to collaborate on ...
